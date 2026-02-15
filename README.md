@@ -101,6 +101,7 @@ This dashboard helps HR teams to:
 
 ## Project Structure
 
+```
 HR-Analytics-Dashboard/
 │
 ├── HR_DATA.pbix          # Power BI dashboard file  
@@ -108,7 +109,7 @@ HR-Analytics-Dashboard/
 ├── README.md             # Project documentation  
 └── Dataset/  
     └── HR-Employee-Attrition.csv   # Source dataset  
-
+```
 ---
 
 # Skills Demonstrated
