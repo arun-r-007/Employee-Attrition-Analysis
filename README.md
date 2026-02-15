@@ -99,11 +99,15 @@ This dashboard helps HR teams to:
 
 ---
 
-# Project Structure
+# 📁 Project Structure
+
 HR-Analytics-Dashboard/
-│── HR_DATA.pbix
-│── dataset.csv
-│── README.md
+│
+├── 📊 HR_DATA.pbix          # Power BI dashboard file
+├── 📄 HR_DATA.pdf           # Exported dashboard/report (optional)
+├── 📑 README.md             # Project documentation
+└── 📂 Dataset
+    └── HR-Employee-Attrition.csv   # Source dataset
 
 ---
 
